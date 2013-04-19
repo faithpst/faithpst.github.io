@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[faithfully]]></title>
-  <link href="http://faithpst.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 数据结构 | faithfully]]></title>
+  <link href="http://faithpst.github.io/blog/categories/shu-ju-jie-gou/atom.xml" rel="self"/>
   <link href="http://faithpst.github.io/"/>
   <updated>2013-04-19T20:19:11+08:00</updated>
   <id>http://faithpst.github.io/</id>
