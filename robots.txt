@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://faithpst.github.io/sitemap.xml 
