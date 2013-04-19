@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[It's big deceive]]></title>
   <link href="http://faithpst.github.io/atom.xml" rel="self"/>
   <link href="http://faithpst.github.io/"/>
-  <updated>2013-04-19T13:25:38+08:00</updated>
+  <updated>2013-04-19T13:31:38+08:00</updated>
   <id>http://faithpst.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[pacingwang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
