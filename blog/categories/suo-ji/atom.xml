@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Blog me]]></title>
-  <link href="http://faithpst.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 琐记 | Blog me]]></title>
+  <link href="http://faithpst.github.io/blog/categories/suo-ji/atom.xml" rel="self"/>
   <link href="http://faithpst.github.io/"/>
   <updated>2013-04-23T23:32:54+08:00</updated>
   <id>http://faithpst.github.io/</id>
@@ -38,17 +38,6 @@
 <p>三. 干货</p>
 
 <p>生态系统。发现你所学习的领域的生态系统。拿ruby举例来说吧，首先你得了解她的起源，历史，影响等等，有些人可能觉得这个不重要，但是，我想说的是，这是重重之重，在了解历史的过程中，你会发现语言的文化，语言的领导者，大牛的成长历程，还有语言的社区形态，总而言之，这样，你就会发现这个语言的生态系统。对于编程语言来说，是她的邮件列表，新闻组，IRC，文档，论坛。在这个生态系统里，保持谦虚，你可以从很多热心的人身上，很多优秀的源代码里学到知识，保持自信，你可以为别人提供帮助，树立自己的形象和人气以至于人脉。对于任何一个领域的学习，都可以据此推而广之。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[数据结构与算法分析---深入学习]]></title>
-    <link href="http://faithpst.github.io/blog/2013/04/19/shu-ju-jie-gou-yu-suan-fa-fen-xi-shen-ru-xue-xi/"/>
-    <updated>2013-04-19T20:16:00+08:00</updated>
-    <id>http://faithpst.github.io/blog/2013/04/19/shu-ju-jie-gou-yu-suan-fa-fen-xi-shen-ru-xue-xi</id>
-    <content type="html"><![CDATA[<p>最近正在学习数据结构，因为是c语言的实践联系题，因此需要在ubuntu下安装c</p>
-
-<p>语言的开发环境.</p>
 ]]></content>
   </entry>
   

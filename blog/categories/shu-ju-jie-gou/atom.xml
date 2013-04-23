@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 数据结构 | Blog me]]></title>
   <link href="http://faithpst.github.io/blog/categories/shu-ju-jie-gou/atom.xml" rel="self"/>
   <link href="http://faithpst.github.io/"/>
-  <updated>2013-04-19T20:58:38+08:00</updated>
+  <updated>2013-04-23T23:32:54+08:00</updated>
   <id>http://faithpst.github.io/</id>
   <author>
     <name><![CDATA[王千一]]></name>
@@ -18,7 +18,9 @@
     <link href="http://faithpst.github.io/blog/2013/04/19/shu-ju-jie-gou-yu-suan-fa-fen-xi-shen-ru-xue-xi/"/>
     <updated>2013-04-19T20:16:00+08:00</updated>
     <id>http://faithpst.github.io/blog/2013/04/19/shu-ju-jie-gou-yu-suan-fa-fen-xi-shen-ru-xue-xi</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>最近正在学习数据结构，因为是c语言的实践联系题，因此需要在ubuntu下安装c</p>
+
+<p>语言的开发环境.</p>
 ]]></content>
   </entry>
   
